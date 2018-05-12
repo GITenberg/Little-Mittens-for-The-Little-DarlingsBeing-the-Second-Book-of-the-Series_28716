@@ -1,0 +1,32 @@
+_repo: Little-Mittens-for-The-Little-DarlingsBeing-the-Second-Book-of-the-Series_28716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fanny, Aunt
+    aliases:
+    - Mease, Frances Elizabeth
+    - Barrow, Frances Elizabeth
+    - Aunt Fanny
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '33364'
+    url: http://www.gutenberg.org/2009/agents/33364
+description: ''
+gutenberg_issued: '2009-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: 'Little Mittens for The Little Darlings
+
+  Being the Second Book of the Series'
+url: http://www.gutenberg.org/ebooks/28716
